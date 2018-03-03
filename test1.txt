@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7C45-C6A9
+
+ Directory of C:\Users\Mukesh\Desktop\First_proj
+
+03/03/2018  01:29 PM    <DIR>          .
+03/03/2018  01:29 PM    <DIR>          ..
+03/03/2018  01:29 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  198,931,304,448 bytes free
